@@ -1,3 +1,0 @@
-pip install streamlit==1.31.1
-pip install streamlit-lottie==0.0.5
-pip install requests==2.31.0
